@@ -1,0 +1,17 @@
+<addressbook>
+    <staff>
+        <name>hubing</name>
+        <gender>male</gender>
+        <age>26</age>
+    </staff>
+    <staff>
+        <name>maomao</name>
+        <gender>female</gender>
+        <age>26</age>
+    </staff>
+    <staff>
+        <name>huyun</name>
+        <gender>male</gender>
+        <age>25</age>
+    </staff>
+</addressbook>
